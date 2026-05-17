@@ -17,5 +17,6 @@ I like reverse engineering, web scraping, data processing, and building monitori
 | [ltgm-template](https://github.com/mrqs001/ltgm-template) | Reusable LGTM-style observability template with Grafana, Loki, Tempo, Mimir, Alloy, dashboards, and a FastAPI demo app for real application setups. |
 | [vboard-rs](https://github.com/mrqs001/vboard-rs) | Movable Linux virtual keyboard built with Rust, GTK3, and XDG desktop portal input. |
 | [PulseCSV](https://github.com/mrqs001/PulseCSV) | Rust CSV processor for large datasets with progress tracking and advanced filtering. |
+| [vigorap-wifi-watcher](https://github.com/mrqs001/vigorap-wifi-watcher) | Small Python CLI for reading DrayTek VigorAP client-count stats. |
 | [FlashFind](https://github.com/mrqs001/FlashFind) | Fast desktop search project. |
 | [printer_report](https://github.com/mrqs001/printer_report) | PowerShell report for printer toner levels. |
