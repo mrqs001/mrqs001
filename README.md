@@ -1,4 +1,5 @@
 Systems Administrator focused on observability, automation, Linux systems, and cloud operations.
+
 I enjoy building practical tools, monitoring platforms, and data-processing solutions that make production systems easier to operate and troubleshoot.
 
 <p>
